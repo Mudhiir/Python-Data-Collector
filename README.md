@@ -1,1 +1,1 @@
-# Python-Data-Entry
+A simple Python GUI (Tkinter) Data Entry
